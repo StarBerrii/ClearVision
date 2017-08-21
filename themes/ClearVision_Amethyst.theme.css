@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #da27e6;
-	--hover-color: #a71eb3;
+	--main-color: #ddb2f1;
+	--hover-color: #;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(http://1.bp.blogspot.com/-VjVw5NIYyiA/U7e0xgrKaSI/AAAAAAAAMLg/rWirANU3hmY/s0/jibril-2-side-no-game-no-life-1920x1080.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
