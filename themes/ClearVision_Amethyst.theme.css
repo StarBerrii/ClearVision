@@ -24,10 +24,10 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #da27e6;
-	--hover-color: #a71eb3;
+	--main-color: ##cd9df8;
+	--hover-color: #000000;
     --background-blur: 0px;
-    --background-brightness: 100%;
+    --background-brightness: 75%;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
