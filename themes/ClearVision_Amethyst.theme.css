@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #da27e6;
-	--hover-color: #a71eb3;
+	--main-color: #FFB6E5;
+	--hover-color: #AAFCDD;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://pre00.deviantart.net/420d/th/pre/i/2015/141/c/0/dj_sona_by_kailistark-d8u6vma.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
